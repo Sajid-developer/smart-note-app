@@ -1,2 +1,2 @@
-# Smart note app
+# Smart Note App
 A smart note application. ✨
